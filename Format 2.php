@@ -52,9 +52,9 @@
         </div>
         <h1>Harshit Verma</h1>
         <p>
-            E-mail: <a href="mailto: harshitakatara72001@gmail.com">harshit.verma_cs18@gla.ac.in</a><br>
+            E-mail: <a href="mailto: harshit.verma_cs18@gla.ac.in">harshit.verma_cs18@gla.ac.in</a><br>
 
-            Contact No.: <a href="contactto: 7454997648">+91-8126929092</a><br>
+            Contact No.: <a href="contactto: 8126929092">+91-8126929092</a><br>
 
             Najibabad , Bijnor 246732 (Uttar-Pradesh)
         </p>
