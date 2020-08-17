@@ -10,6 +10,7 @@
       rel="stylesheet"
     />
     <title>Resume</title>
+    <link rel="stylesheet" href="styles.css">
  
   </head>
   <body>
