@@ -5,43 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Resume Design</title>
-    <style>
-        body {
-            border: 3px solid black;
-            padding: 30px;
-            width: 732px;
-            display: block;
-            margin: auto;
-        }
-
-        #box1 {
-            text-align: center;
-        }
-
-        #container .box {
-            border: 1px solid black;
-            float: right;
-            width: 100px;
-            height: 65px;
-            padding-top: 57px;
-            text-align: center;
-        }
-
-        .writing {
-            font-size: 20px;
-        }
-
-        table,
-        th,
-        td {
-            border: 1px solid black;
-            border-collapse: collapse;
-        }
-
-        td {
-            padding-left: 6px;
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
