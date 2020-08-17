@@ -4,34 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Resume</title>
-    <style>
-    
-    .box{
-        width: 60%;
-        height: 100%;
-        margin:0px auto;
-        padding: 10px;
-
-        border: solid 2px black;  
-    }
-    .box h1{
-        text-align:center;
-    }
-    p{
-        font-size:20px;
-    }
-    .border{
-        width:100%;
-        background-color: #C0C0C0;
-    }
-    ul{
-        font-size:20px;
-        margin-left:20px;
-    }
-    h2{
-        text-align:right;
-    }
-    </style>
+   
 
 </head>
 <body>
